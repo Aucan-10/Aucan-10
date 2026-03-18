@@ -1,7 +1,7 @@
 
 
-#                                👨‍💻 Aucan Russo 👨‍💻 
-##                             Desarrollador en proceso
+#    <p align="center"> 👨‍💻 Aucan Russo 👨‍💻 </p>                           
+##  <p align="center"> Desarrollador en proceso </p>
 
 ¡Hola! Soy un estudiante de secundaria apasionado por la programación y la tecnología.  
 Este espacio en GitHub lo utilizo para compartir mis proyectos, prácticas y aprendizajes.
