@@ -34,7 +34,13 @@ Este espacio en GitHub lo utilizo para compartir mis proyectos, prácticas y apr
 Si quieres conectar conmigo:  
 - ✉️ Email: *aucannrusso2007@gmail.com*   
 
-<img src="mi-foto.jpeg" width="400" style="border-radius: 50%;" />
+<table>
+  <tr>
+    <td>
+      <img src="mi-foto.jpeg" width="325" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
