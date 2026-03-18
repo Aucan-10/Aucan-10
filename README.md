@@ -34,7 +34,8 @@ Este espacio en GitHub lo utilizo para compartir mis proyectos, prácticas y apr
 Si quieres conectar conmigo:  
 - ✉️ Email: *aucannrusso2007@gmail.com*   
 
-![Mi foto](mi-foto.jpeg)
+<img src="mi-foto.jpeg" width="150" style="border-radius: 50px;" />
+
 ---
 
 > *Este README es una presentación básica. A medida que avance en mis estudios y proyectos, lo iré actualizando para reflejar mi crecimiento como programador.*
