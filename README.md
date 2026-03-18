@@ -1,4 +1,7 @@
-# 👨‍💻 Aucan Russo - 6to Año
+
+
+#                                👨‍💻 Aucan Russo 👨‍💻 
+##                             Desarrollador en proceso
 
 ¡Hola! Soy un estudiante de secundaria apasionado por la programación y la tecnología.  
 Este espacio en GitHub lo utilizo para compartir mis proyectos, prácticas y aprendizajes.
@@ -18,7 +21,7 @@ Este espacio en GitHub lo utilizo para compartir mis proyectos, prácticas y apr
 
 ## 📂 Proyectos destacados
 - 🖥️ **Mini juegos en Python**: proyectos simples para practicar lógica y estructuras.
-- 🌐 **Página web personal**: HTML, CSS y JavaScript.
+- 🌐 **Página web personal**: Python, Java, HTML, CSS y JavaScript.
 - 🔢 **Calculadora en Java**: aplicación de consola para operaciones básicas.
 
 ---
