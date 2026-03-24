@@ -1,6 +1,6 @@
 
 
-#    <p align="center"> 👨‍💻 Aucan Russo 👨‍💻 </p>                           
+#    <p align="center"> 👨‍💻 Aucan 👨‍💻 </p>                           
 ##  <p align="center"> Desarrollador en proceso </p>
 
 ¡Hola! Soy un estudiante de secundaria apasionado por la programación y la tecnología.  
@@ -13,22 +13,15 @@ Este espacio en GitHub lo utilizo para compartir mis proyectos, prácticas y apr
 - 💙 Soy de Argentina
 - 💡 Me interesa el desarrollo de software, la lógica de programación y la resolución de problemas.
 - 🌱 Estoy aprendiendo y mejorando en:
-  - **Lenguajes:** Python, Java, JavaScript, C++
-  - **Herramientas:** Git, GitHub, Visual Studio Code
-  - **Conceptos:** Algoritmos, estructuras de datos, bases de datos
-
----
-
-## 📂 Proyectos destacados
-- 🖥️ **Mini juegos en Python**: proyectos simples para practicar lógica y estructuras.
-- 🌐 **Página web personal**: Python, Java, HTML, CSS y JavaScript.
-- 🔢 **Calculadora en Java**: aplicación de consola para operaciones básicas.
+  - **Lenguajes:** Python, Java, JavaScript, CSS y HTML
+  - **Herramientas:** Git, GitHub, Visual Studio Code, Arduino y Packet Tracer
+  - **Conceptos:** Algoritmos, estructuras de datos y bases de datos
 
 ---
 
 ## 🎯 Objetivos
 - Seguir aprendiendo nuevas tecnologías y frameworks.
-- Mejorar mis habilidades en programación orientada a objetos.
+- Continuar mejorando mis habilidades en programación.
 - Contribuir a proyectos colaborativos y open source.
 
 ---
